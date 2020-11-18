@@ -1,4 +1,4 @@
-# Auto-Annotate: Automatically annotate your entire image directory by a single command.
+# Auto-Annotate: Automatically annotate your entire image directory by a single command. ( Version for more than one label ) 
 
 For a more detailed explaination and code usage, please refer to this [medium article](https://medium.com/analytics-vidhya/automated-image-annotation-using-auto-annotate-tool-f8fff8ea4900).
 
